@@ -6,8 +6,8 @@
   "name":"tea_cup",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_areas",
+    "path":"folders/Objects/obj_areas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

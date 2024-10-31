@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object10",
-  "eventList":[],
+  "%Name":"obj_receipt",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object10",
+  "name":"obj_receipt",
   "overriddenProperties":[],
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"evidence_folder",
+    "path":"folders/Objects/evidence_folder.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_receipt",
+    "path":"sprites/spr_receipt/spr_receipt.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
