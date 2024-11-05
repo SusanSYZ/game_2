@@ -6,15 +6,16 @@ function scr_set_defaults_for_text() {
 
 /// @param text
 function scr_text(_text){
-	scr_set_defaults_for_text();
+	scr_set_defaults_for_text()
 	text[page_number] = _text;
 	page_number++;
 }
 
-/// @param
-function create_textbox(_text_id) {
-	
-	with (instance_create_depth(0, 0, -y, obj_textbox)) {
+/// @param text_id
+function create_textbox(_text_id) {	
+	with (instance_create_depth(0, 0, -999, obj_textbox)) {
+		//create_textbox(_s.text_id);
 		scr_game_text(_text_id);
 	}
 }
+
