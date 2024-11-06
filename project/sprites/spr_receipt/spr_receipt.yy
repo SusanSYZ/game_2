@@ -1,25 +1,41 @@
 {
   "$GMSprite":"",
   "%Name":"spr_receipt",
+<<<<<<< Updated upstream
   "bboxMode":2,
   "bbox_bottom":43,
   "bbox_left":21,
   "bbox_right":43,
   "bbox_top":18,
+=======
+  "bboxMode":0,
+  "bbox_bottom":39,
+  "bbox_left":25,
+  "bbox_right":39,
+  "bbox_top":25,
+>>>>>>> Stashed changes
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< Updated upstream
     {"$GMSpriteFrame":"","%Name":"3eaa86ad-11ec-4cdb-a456-40848dec0740","name":"3eaa86ad-11ec-4cdb-a456-40848dec0740","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+=======
+    {"$GMSpriteFrame":"","%Name":"78d22f7e-e4f5-49a4-a78c-45bf626c1449","name":"78d22f7e-e4f5-49a4-a78c-45bf626c1449","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
+<<<<<<< Updated upstream
     {"$GMImageLayer":"","%Name":"a3498cb7-cb81-4626-8285-629ebdb45928","blendMode":0,"displayName":"default","isLocked":false,"name":"a3498cb7-cb81-4626-8285-629ebdb45928","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+=======
+    {"$GMImageLayer":"","%Name":"501e0835-fcd9-4fe5-9160-4859e2f6f832","blendMode":0,"displayName":"default","isLocked":false,"name":"501e0835-fcd9-4fe5-9160-4859e2f6f832","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> Stashed changes
   ],
   "name":"spr_receipt",
   "nineSlice":null,
@@ -69,8 +85,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< Updated upstream
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3eaa86ad-11ec-4cdb-a456-40848dec0740","path":"sprites/spr_receipt/spr_receipt.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"719fbc53-6b89-4359-8944-3d983a723d5b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"78d22f7e-e4f5-49a4-a78c-45bf626c1449","path":"sprites/spr_receipt/spr_receipt.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"652a8327-601e-4399-acc9-9cd6e19ba829","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> Stashed changes
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

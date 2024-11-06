@@ -2,24 +2,39 @@
   "$GMSprite":"",
   "%Name":"spr_katherine_cap",
   "bboxMode":0,
+<<<<<<< Updated upstream
   "bbox_bottom":42,
   "bbox_left":23,
   "bbox_right":37,
   "bbox_top":28,
+=======
+  "bbox_bottom":39,
+  "bbox_left":24,
+  "bbox_right":38,
+  "bbox_top":25,
+>>>>>>> Stashed changes
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< Updated upstream
     {"$GMSpriteFrame":"","%Name":"82a15239-63ed-4c02-8fe1-abf614dbd847","name":"82a15239-63ed-4c02-8fe1-abf614dbd847","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+=======
+    {"$GMSpriteFrame":"","%Name":"0ad5ad18-8273-45f5-aafa-25f1eaf6ed1b","name":"0ad5ad18-8273-45f5-aafa-25f1eaf6ed1b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
+<<<<<<< Updated upstream
     {"$GMImageLayer":"","%Name":"de0ac3ae-0688-4b88-aa55-f7716cf275c1","blendMode":0,"displayName":"default","isLocked":false,"name":"de0ac3ae-0688-4b88-aa55-f7716cf275c1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+=======
+    {"$GMImageLayer":"","%Name":"6b06d371-9638-4cd9-98b4-f4cba77feec0","blendMode":0,"displayName":"default","isLocked":false,"name":"6b06d371-9638-4cd9-98b4-f4cba77feec0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> Stashed changes
   ],
   "name":"spr_katherine_cap",
   "nineSlice":null,
@@ -69,8 +84,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< Updated upstream
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"82a15239-63ed-4c02-8fe1-abf614dbd847","path":"sprites/spr_katherine_cap/spr_katherine_cap.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7f18e0a3-7f8f-48b2-a1a7-aca6a3346ebd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ad5ad18-8273-45f5-aafa-25f1eaf6ed1b","path":"sprites/spr_katherine_cap/spr_katherine_cap.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7d37a79a-4b42-4293-a6a7-119b8cffab14","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> Stashed changes
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

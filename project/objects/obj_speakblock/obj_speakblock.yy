@@ -32,10 +32,14 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
+<<<<<<< Updated upstream
   "spriteId":{
     "name":"spr_katherine_cap",
     "path":"sprites/spr_katherine_cap/spr_katherine_cap.yy",
   },
+=======
+  "spriteId":null,
+>>>>>>> Stashed changes
   "spriteMaskId":null,
   "visible":true,
 }

@@ -2,24 +2,39 @@
   "$GMSprite":"",
   "%Name":"spr_lily_bracelet",
   "bboxMode":0,
+<<<<<<< Updated upstream
   "bbox_bottom":46,
   "bbox_left":23,
   "bbox_right":37,
   "bbox_top":32,
+=======
+  "bbox_bottom":39,
+  "bbox_left":25,
+  "bbox_right":39,
+  "bbox_top":25,
+>>>>>>> Stashed changes
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< Updated upstream
     {"$GMSpriteFrame":"","%Name":"7c807316-f273-45a3-979f-217d3cf46ecd","name":"7c807316-f273-45a3-979f-217d3cf46ecd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+=======
+    {"$GMSpriteFrame":"","%Name":"ee31f427-6fe2-4ed3-8c87-9415df5f68da","name":"ee31f427-6fe2-4ed3-8c87-9415df5f68da","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
+<<<<<<< Updated upstream
     {"$GMImageLayer":"","%Name":"bff92729-0176-4a0d-814e-ac80361ca664","blendMode":0,"displayName":"default","isLocked":false,"name":"bff92729-0176-4a0d-814e-ac80361ca664","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+=======
+    {"$GMImageLayer":"","%Name":"86c8c2c5-103d-4e15-b71a-2b70264074a8","blendMode":0,"displayName":"default","isLocked":false,"name":"86c8c2c5-103d-4e15-b71a-2b70264074a8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> Stashed changes
   ],
   "name":"spr_lily_bracelet",
   "nineSlice":null,
@@ -69,8 +84,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< Updated upstream
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7c807316-f273-45a3-979f-217d3cf46ecd","path":"sprites/spr_lily_bracelet/spr_lily_bracelet.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"37d38ecf-57c4-4892-86c6-49199d8a2665","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee31f427-6fe2-4ed3-8c87-9415df5f68da","path":"sprites/spr_lily_bracelet/spr_lily_bracelet.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a4e64916-03cd-444d-a13d-4b0fa88edec5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> Stashed changes
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
