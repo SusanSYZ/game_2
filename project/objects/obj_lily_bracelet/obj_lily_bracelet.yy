@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lily_bracelet",
-    "path":"sprites/spr_lily_bracelet/spr_lily_bracelet.yy",
+    "name":"temp_obj_sprite",
+    "path":"sprites/temp_obj_sprite/temp_obj_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -5,9 +5,9 @@ function scr_getMainMap() {
 	
 	if inventory_len == 0 {
 		room = rm_entrance;
-	} else if inventory_len >= 1 && inventory_len <= 2 {
+	} else if inventory_len == 1 || inventory_len == 2 {
 		room = rm_bumper_cars;
-	} else {
+	} else if inventory_len == 3 {
 		room = rm_haunted_house;
 	}
 

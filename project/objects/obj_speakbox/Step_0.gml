@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-scr_addToInventory(self);
-room = dialogue_screen_1;
+var _s = id;
+create_textbox(_s.text_id);

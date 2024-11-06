@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_receipt",
-    "path":"sprites/spr_receipt/spr_receipt.yy",
+    "name":"temp_obj_sprite",
+    "path":"sprites/temp_obj_sprite/temp_obj_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_katherine_cap",
+  "%Name":"obj_speakbox",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_katherine_cap",
+  "name":"obj_speakbox",
   "overriddenProperties":[],
   "parent":{
-    "name":"evidence_folder",
-    "path":"folders/Objects/evidence_folder.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"temp_obj_sprite",
-    "path":"sprites/temp_obj_sprite/temp_obj_sprite.yy",
+    "name":"spr_textbox",
+    "path":"sprites/spr_textbox/spr_textbox.yy",
   },
   "spriteMaskId":null,
   "visible":true,
