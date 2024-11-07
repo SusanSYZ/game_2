@@ -6,8 +6,8 @@
   "name":"teacup",
   "overriddenProperties":[],
   "parent":{
-    "name":"project",
-    "path":"project.yyp",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"teaCup",
-    "path":"sprites/teaCup/teaCup.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
