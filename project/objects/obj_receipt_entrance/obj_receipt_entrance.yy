@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"receipt1",
-    "path":"sprites/receipt1/receipt1.yy",
+    "name":"receipt_entrance",
+    "path":"sprites/receipt_entrance/receipt_entrance.yy",
   },
   "spriteMaskId":null,
   "visible":true,

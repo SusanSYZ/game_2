@@ -1,1 +1,1 @@
-text_id = "lily_bracelet";
+text_id = "lily_locket";

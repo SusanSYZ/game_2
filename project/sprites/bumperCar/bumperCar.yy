@@ -44,8 +44,8 @@
   },
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"ride_sprites",
+    "path":"folders/Sprites/ride_sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

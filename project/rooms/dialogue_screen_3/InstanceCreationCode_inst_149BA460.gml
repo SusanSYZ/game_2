@@ -1,1 +1,1 @@
-text_id = "katherine_cap";
+text_id = "katherine_hat";

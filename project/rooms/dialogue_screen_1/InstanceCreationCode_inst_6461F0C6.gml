@@ -1,1 +1,1 @@
-text_id = "receipt";
+text_id = "receipt_entrance";
