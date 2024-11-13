@@ -3,5 +3,6 @@
 if !collected {
 	scr_addToInventory(self);
 	collected = true;
-	room = dialogue_screen_2;
+	visible = false;
+	room = locket_kath;
 }

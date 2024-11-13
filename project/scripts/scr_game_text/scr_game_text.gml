@@ -1,6 +1,18 @@
 /// @param text_id
 function scr_game_text(_text_id) {
 	switch(_text_id) {
+		case "katherine-bob":
+			scr_text("who would you like to interview?");
+			break;
+		case "katherine-david":
+			scr_text("who would you like to interview?");
+			break;
+		case "bob-david":
+			scr_text("who would you like to interview?");
+			break;
+		case "bob-david-katherine":
+			scr_text("who would you like to interview?");
+			break;
 		case "receipt_entrance":
 			scr_text("Bob: The 4 of us got to the amusement park at around 10 in the morning");
 			scr_text("Me: Was there anyone that seemed suspicious to you, such as someone following you guys?");
